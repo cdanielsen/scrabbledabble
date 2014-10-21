@@ -1,9 +1,9 @@
-*Title*
+ScrabbleDabble
 =====================================
 
 ##About:
 
-A programming challenge using basic Javascript for Epicodus 2014.
+A programming challenge using basic Javascript for Epicodus Summer 2014.
 
 ##Author:
 
