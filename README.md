@@ -15,5 +15,7 @@ A program to calculate the scrabble score of a given word.
 
 ##Local Implementation:
 
+Clone onto local machine and open index.html from the root directory in your favorite browser.
+
 
 Copyright MIT
